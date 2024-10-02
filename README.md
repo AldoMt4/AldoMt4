@@ -5,22 +5,23 @@
 
 - <b>COMING SOON</b>
   
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📚 About Me</h2>
+<p>
+Hello! I’m Aldo Mata, a sophomore at New Mexico State University with a strong passion for programming and cybersecurity. I love tackling coding challenges and constantly pushing myself to improve my skills in software development and secure computing.
+</p>
+<p>
+My primary focus is on exploring different areas within cybersecurity, aiming to develop innovative solutions that can address real-world security challenges. I’m eager to collaborate and learn from others in the field while working towards a future career in cybersecurity.
+</p>
+<p>
+Feel free to connect with me on <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/">LinkedIn</a>, and thank you for taking the time to check out my portfolio!
+</p>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
-<a href="[https://(https://www.linkedin.com/in/aldo-mata-95a07a308/)"> </a>
-<a href="aldomata@nmsu.edu"> </a>
-<a href=""> </a>
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<h2>🤳 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/aldo-mata-95a07a308/">LinkedIn</a><br>
+<a href="mailto:aldomata@nmsu.edu">Email</a><br>
+<a href="https://nmsu.joinhandshake.com/profiles/50756486">HandShake</a><br>
+
 
 <!--
 
