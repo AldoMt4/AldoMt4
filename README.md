@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects </h2>
 <h2> Personal, school, clubs</h2>
 
-- <b>COMING SOO</b>
+- <b>COMING SOOm</b>
   
 <h2>📚 About Me</h2>
 <p>
