@@ -7,7 +7,7 @@
   
 <h2>📚 About Me</h2>
 <p>
-Hello! I’m Aldo Mata, a sophomore at New Mexico State University with a strong passion for programming and cybersecurity. I love tackling coding challenges and constantly pushing myself to improve my skills in software development and secure computing.
+Hello!! I’m Aldo Mata, a sophomore at New Mexico State University with a strong passion for programming and cybersecurity. I love tackling coding challenges and constantly pushing myself to improve my skills in software development and secure computing.
 </p>
 <p>
 My primary focus is on exploring different areas within cybersecurity, aiming to develop innovative solutions that can address real-world security challenges. I’m eager to collaborate and learn from others in the field while working towards a future career in cybersecurity.
