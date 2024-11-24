@@ -1,4 +1,4 @@
-<h1>👋Hi, I'm Aldo! <br/><a href="https://github.com/AldoMt4">Cybersecurity Undergraduate</a> <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/">LinkedIn</a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
+<h1>👋Hi, I'm Aldo! <br/><a href="https://github.com/AldoMt4">Cybersecurity Undergraduate</a> <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/"></a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
 
 <h2>👨‍💻 Projects / Coding Competitions</h2>
 
