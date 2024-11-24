@@ -1,11 +1,11 @@
 <h1>👋Hi, I'm Aldo! <br/><a href="https://github.com/AldoMt4">Cybersecurity Undergraduate</a> <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/">LinkedIn</a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
 
-<h2>👨‍💻 Projects</h2>
+<h2>👨‍💻 Projects / Coding Competitions</h2>
 
 <h3><strong>Portfolio Website</strong></h3>
 <p><em>A personal portfolio website to showcase my skills, projects, and contact information. This website includes sections for my resume, contact details, and a gallery of my work. It is designed to give a professional overview of my abilities and achievements in the field of cybersecurity and programming.</em></p>
 <p>Check it out <a href="https://github.com/AldoMt4/AM-website-portofolio" target="_blank">here</a>.</p>
-
+<p>Participated in the <strong>NMSU Google Coding Competition</strong>. Collaborated with a team to solve real-world coding challenges and improve problem-solving skills under time constraints.</p>
 - <b>COMING SOON</b>
   <h2>🏫 Clubs</h2>
 <p><strong>Cybersecurity Club</strong> - Member<br>
