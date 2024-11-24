@@ -1,6 +1,7 @@
 <h1>👋Hi, I'm Aldo! <br/><a href="https://github.com/AldoMt4">Cybersecurity Undergraduate </a> <a href="[https://(https://www.linkedin.com/in/aldo-mata-95a07a308/)"> </a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
 
-<h2>👨‍💻 Projects </h2>
+<h2>👨‍💻 Projects</h2>
+<p>I have worked on a portfolio website to showcase my skills and projects. It includes sections for my resume, contact information, and a gallery of my work. You can view it <a href="https://github.com/AldoMt4/AM-website-portofolio" target="_blank">here</a>.</p>
 <h2> Personal, school, clubs</h2>
 
 - <b>COMING SOON</b>
