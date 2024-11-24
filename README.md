@@ -7,7 +7,10 @@
 <p>Check it out <a href="https://github.com/AldoMt4/AM-website-portofolio" target="_blank">here</a>.</p>
 
 - <b>COMING SOON</b>
-  
+  <h2>🏫 Clubs</h2>
+<p><strong>Cybersecurity Club</strong> - Member<br>
+   <strong>Google Development Club</strong> - Member<br>
+   <strong>CAHSI (Computing Alliance of Hispanic-Serving Institutions)</strong> - Advocate</p>
 <h2>📚 About Me</h2>
 <p>
 Hello!! I’m Aldo Mata, a sophomore at New Mexico State University with a strong passion for programming and cybersecurity. I love tackling coding challenges and constantly pushing myself to improve my skills in software development and secure computing.
