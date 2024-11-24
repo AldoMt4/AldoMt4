@@ -1,8 +1,10 @@
-<h1>👋Hi, I'm Aldo! <br/><a href="https://github.com/AldoMt4">Cybersecurity Undergraduate </a> <a href="[https://(https://www.linkedin.com/in/aldo-mata-95a07a308/)"> </a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
+<h1>👋Hi, I'm Aldo! <br/><a href="https://github.com/AldoMt4">Cybersecurity Undergraduate</a> <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/">LinkedIn</a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer</a></h1>
 
 <h2>👨‍💻 Projects</h2>
-<p>I have worked on a portfolio website to showcase my skills and projects. It includes sections for my resume, contact information, and a gallery of my work. You can view it <a href="https://github.com/AldoMt4/AM-website-portofolio" target="_blank">here</a>.</p>
-<h2> Personal, school, clubs</h2>
+
+<h3><strong>Portfolio Website</strong></h3>
+<p><em>A personal portfolio website to showcase my skills, projects, and contact information. This website includes sections for my resume, contact details, and a gallery of my work. It is designed to give a professional overview of my abilities and achievements in the field of cybersecurity and programming.</em></p>
+<p>Check it out <a href="https://github.com/AldoMt4/AM-website-portofolio" target="_blank">here</a>.</p>
 
 - <b>COMING SOON</b>
   
