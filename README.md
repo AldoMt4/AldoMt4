@@ -7,7 +7,7 @@
 <p>Check it out <a href="https://github.com/AldoMt4/AM-website-portofolio" target="_blank">here</a>.</p>
 <h3><strong>NMSU GOOGLE CODING COMPETITION</strong></h3>
 <p>Participated in the <strong>NMSU Google Coding Competition</strong>. Collaborated with a team to solve real-world coding challenges and improve problem-solving skills under time constraints.</p>
-- <b>COMING SOON</b>
+- <b>more COMING SOON</b>
 
  
   
