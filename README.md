@@ -27,7 +27,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/aldo-mata-9
 </p>
 
 
-<h2>🤳 Connect with me: </h2>
+<h2>🤳 Connect with me:     </h2>
 <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/">LinkedIn</a><br>
 <a href="mailto:aldomata@nmsu.edu">Email</a><br>
 <a href="https://nmsu.joinhandshake.com/profiles/50756486">HandShake</a><br>
