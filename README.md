@@ -12,7 +12,7 @@
  
   
   <h2>🏫 Club   </h2>
-<p><strong>Cybersecurity Club</strong> - Member<br>
+<p><strong>Cybersecurity Club </strong> - Member<br>
    <strong>Google Development Club</strong> - Member<br>
    <strong>CAHSI (Computing Alliance of Hispanic-Serving Institutions)</strong> - Advocate</p>
 <h2>📚 About Me</h2>
