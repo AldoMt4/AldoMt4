@@ -1,6 +1,6 @@
 <h1>👋Hi, I'm Aldo!<br/><a  href="https://github.com/AldoMt4">Cybersecurity Undergraduate</a> <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/"></a>, <a> <a href="https://www.linkedin.com/in/aldo-mata-95a07a308/"></a>Programmer </a></h1>
 
-<h2>👨‍💻 Projects / Coding Competitions </h2>
+<h2>👨‍💻 Projects / Coding Competitions  </h2>
 
 <h3><strong>Portfolio Website</strong></h3>
 <p><em>A personal portfolio website to showcase my skills, projects, and contact information. This website includes sections for my resume, contact details, and a gallery of my work. It is designed to give a professional overview of my abilities and achievements in the field of cybersecurity and programming.</em></p>
